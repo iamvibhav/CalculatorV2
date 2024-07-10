@@ -8,7 +8,7 @@ Responsive Layout: Works seamlessly across desktop and mobile devices.
 History: Keeps track of previous calculations.
 Keyboard Support: Allows input via keyboard for faster calculations.
 ## Demo
-Explore the live demo here [CalculatorV2](https://iamvibhav.github.io/OIBSIP_Calculator/)
+Explore the live demo here [CalculatorV2](https://iamvibhav.github.io/CalculatorV2/)
 
 ## Technologies Used
 HTML
